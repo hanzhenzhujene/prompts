@@ -19,6 +19,7 @@ Paste `core.md`. Optionally append one mode file. Then state the task.
 | `core.md` | Always |
 | `modes/analyze.md` | Research, analysis, thinking through problems |
 | `modes/code.md` | Writing, debugging, or reviewing code |
+| `modes/continue.md` | Resuming agentic work mid-session |
 | `modes/write.md` | Essays, documents, prose |
 
 ## What this encodes
