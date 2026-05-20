@@ -30,7 +30,7 @@ Paste `core.md`. Optionally append one or more mode files. Then state the task.
 
 | Task | Use |
 |---|---|
-| Quick manager chat sync | `core.md` + `modes/communication.md` + `modes/bracketed-skimmable-update.md` |
+| Quick communicating-up chat sync | `core.md` + `modes/communication.md` + `modes/bracketed-skimmable-update.md` |
 | Verbal team update | `core.md` + `modes/communication.md` + `modes/business.md` |
 | Business analysis | `core.md` + `modes/analyze.md` + `modes/business.md` |
 | Coding agent work | `core.md` + `modes/code.md` |
