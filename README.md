@@ -1,6 +1,8 @@
 # prompt-kitchen
 
-SOTA reusable prompt modes for sharper thinking, cleaner communication, and better agentic work. Generic, composable, and fun to remix.
+SOTA & reusable kitchen to COOK ur llm! 🍳🔥🧂🤪
+
+- by jenny zhu 🧑‍🍳✨
 
 ## Usage
 
