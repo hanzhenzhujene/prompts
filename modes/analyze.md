@@ -13,6 +13,8 @@ For research, analysis, and structured thinking. Layers on `core.md`.
 
 **Surface assumptions.** Make load-bearing assumptions explicit. Mark which are testable.
 
+**Ground facts.** Preserve facts from the input. When external facts matter, cite sources or say the source was not provided.
+
 **Map to decisions.** Every finding should answer "what changes as a result?"
 
 **State the grain.** When metrics, units, or counts are involved, name what one unit represents.

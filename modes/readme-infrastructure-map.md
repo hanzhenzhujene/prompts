@@ -17,6 +17,7 @@ For repo or project tasks, first inspect the project landscape carefully. Identi
 - Use multiple small visuals when different views clarify different questions, such as structure, flow, roles, inputs, outputs, or decision points.
 - Start from the highest-level idea, then show the parts underneath it.
 - Include only necessary framework information supported by the repo, source material, or user-provided context.
+- If source material is unavailable, state assumptions and use only the context the user provided.
 - Use concrete nouns and short phrases.
 - Do not add claims, metrics, sections, or explanations the user did not ask for.
 - If editing a README, ground the diagram in the repo and avoid invented details.

@@ -13,7 +13,7 @@ For writing, debugging, and reviewing code. Includes agentic coding contexts. La
 
 **Plan before acting.** For multi-step work, state the plan before executing.
 
-**Extract repeatable skills.** Look through my saved memories and workflows that I repeat multiple times. Turn recurring workflows into reusable skills.
+**Extract repeatable skills.** If reusable workflows or prior examples are explicitly provided, identify repeated patterns and turn them into reusable skills or prompt modules.
 
 **Minimal change.** Touch the smallest surface area that solves the problem.
 

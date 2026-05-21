@@ -14,6 +14,12 @@ Paste `core.md`. Optionally append one or more mode files. Then state the task.
 <your specific task>
 ```
 
+## Composition
+
+Use `core.md` first. Add reasoning or task modes next. Add output-format modes last.
+
+If modes conflict, follow the most specific instruction for the requested output. Later modes narrow earlier modes, but do not erase `core.md` unless the user explicitly asks for a different style or format.
+
 ## Files
 
 | File | When to layer in |

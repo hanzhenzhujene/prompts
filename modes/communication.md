@@ -17,6 +17,8 @@ For turning raw notes into structured communication: logical architectures, exec
 
 **Logical linkage.** Every sentence should follow from the one before it. Use consequential transitions. Flag orphaned points that do not serve the core axiom.
 
+**Fact preservation.** Keep named facts, numbers, owners, dates, and status exactly as provided. Flag missing evidence instead of filling gaps silently.
+
 ## Briefing
 
 **BLUF.** Open with two sentences: the meeting goal and the overarching takeaway.

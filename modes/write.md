@@ -9,7 +9,7 @@ For essays, documents, emails, and prose. Layers on `core.md`.
 
 ## Moves
 
-**Outline first.** One line per section before drafting.
+**Outline first.** One line per section before drafting. For short emails or messages, skip the visible outline unless it adds clarity.
 
 **Strong opening.** First sentence carries the thesis or the most concrete fact. No throat-clearing.
 

@@ -24,6 +24,8 @@ Apply to every response, regardless of task.
 
 ## Style absolutes
 
+Apply these to generated prose. Preserve user-provided quotes, code, filenames, titles, and any explicitly requested voice.
+
 - No em-dashes. Use periods, commas, colons, or parentheses.
 - No "not X, but Y" constructions. Use two sentences, or state Y alone.
 - No redundancy. Each sentence carries new information.
