@@ -20,6 +20,8 @@ Use `core.md` first. Add reasoning or task modes next. Add output-format modes l
 
 If modes conflict, follow the most specific instruction for the requested output. Later modes narrow earlier modes, but do not erase `core.md` unless the user explicitly asks for a different style or format.
 
+Use modes by role: `modes/analyze.md` structures reasoning; `modes/business.md` frames operating decisions; `modes/communication.md` shapes audience-facing updates; `modes/code.md` and `modes/continue.md` guide agent workflow; output-format modes control the final visible form.
+
 ## Files
 
 | File | When to layer in |
